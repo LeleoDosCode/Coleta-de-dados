@@ -17,3 +17,6 @@ O sistema pode capturar diferentes tipos de dados, incluindo:
 
 ## Para Rodar
 ``` node index.js ```
+
+## Para acessar na nuvem
+- https://coleta-de-dados-xwvn.onrender.com/
